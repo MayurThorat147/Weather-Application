@@ -1,1 +1,2 @@
+WEATHER APPLICATION USING ANGULAR  
 Designed and Implemented a dynamic Weather Application using Angular to provide real-time weather information for cities.I have implemented a search functionality allowing users to input city names and retrieve accurate weather data from an API and also utilized Angular's features,including two-way data binding and ngIf/ngFor directives to create a seamless user experience.
